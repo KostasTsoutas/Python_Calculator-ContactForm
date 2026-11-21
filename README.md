@@ -230,11 +230,11 @@ python3 2_ContactForm/Main.py
 Copyright © 2026 Κωνσταντίνος Τσούτας (`KostasTsoutas`). Με επιφύλαξη παντός νομίμου δικαιώματος.
 
 Το παρόν έργο εκπονήθηκε στο πλαίσιο εξαμηνιαίας εργασίας.  
-Διατίθεται υπό τους όρους της άδειας ελεύθερου λογισμικού **GNU General Public License v3.0 (GPL-3.0)** — δείτε το αρχείο [LICENSE](LICENSE) για τις πλήρεις λεπτομέρειες.
+Διατίθεται υπό τους όρους της άδειας ελεύθερου λογισμικού **GNU General Public License v3.0 (GPL-3.0)** δείτε το αρχείο [LICENSE](LICENSE) για τις πλήρεις λεπτομέρειες.
 
 ## License & Copyright
 
 Copyright © 2026 Kostas Tsoutas (`KostasTsoutas`). All rights reserved.
 
 This project was developed as a semester assignment.  
-It is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [LICENSE](LICENSE) file for details.
+It is licensed under the **GNU General Public License v3.0 (GPL-3.0)** see the [LICENSE](LICENSE) file for details.
